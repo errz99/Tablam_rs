@@ -1,0 +1,10 @@
+[package]
+name = "tablam"
+version = "0.1.0"
+authors = ["errz99 <errz99@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gio = "0.8.0"
+gtk = "0.8.0"
+gdk = "0.12.0"
